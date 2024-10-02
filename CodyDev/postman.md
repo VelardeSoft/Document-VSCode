@@ -6,11 +6,11 @@ Es un puente que comunica dos aplicaciones, json es el lenguaje que usa.
 
 ## JSON
 
-(JavaScript Object Notation) es un formato ligero y independiente de lenguaje, ideal para intercambiar datos. 
+(JavaScript Object Notation) es un formato ligero y independiente de lenguaje, ideal para intercambiar datos.
 
 ## Peticion HTTP
 
-**Cliente - Servidor** : el computador hace petición al servidor, entre ambos existe el protocolo de http para intercambiar información, si el cliente hace peticiones y obtiene la siguiente información: 
+**Cliente - Servidor** : el computador hace petición al servidor, entre ambos existe el protocolo de http para intercambiar información, si el cliente hace peticiones y obtiene la siguiente información:
 
 1xx: Respuesta informativa
 2xx: Respuesta correcta
@@ -20,4 +20,4 @@ Es un puente que comunica dos aplicaciones, json es el lenguaje que usa.
 
 ## Postman
 
-Postman es una aplicación que sirve para construir y utilizar API,s. 
+Postman es una aplicación que sirve para construir y utilizar API,s.
