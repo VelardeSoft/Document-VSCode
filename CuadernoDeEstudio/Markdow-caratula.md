@@ -1,16 +1,19 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,htmx,js,linkeding,github)](https://skillicons.dev)
 
 ### IDE  
-![WebStorm](https://skillicons.dev/icons?i=webstorm) ![Rider](https://skillicons.dev/icons?i=rider) ![Pycharm](https://skillicons.dev/icons?i=pycharm) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+![WebStorm](https://skillicons.dev/icons?i=webstorm,rider,pycharm,vscode,visualstudio)
 
 ### Bases de datos  
-![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql,mongodb)
 
 ### Desarrollo de software  
-![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![ASP.NET](https://skillicons.dev/icons?i=dotnet) ![Spring Boot](https://skillicons.dev/icons?i=spring)
+![C++](https://skillicons.dev/icons?i=cpp,python,java,dotnet,spring)
 
 ### Frameworks web  
-![Angular](https://skillicons.dev/icons?i=angular) ![Vue](https://skillicons.dev/icons?i=vuejs)
+![Angular](https://skillicons.dev/icons?i=angular,vuejs,html,css,js)
+
+### Deploment  
+![GitHub](https://skillicons.dev/icons?i=github,git,vercel,netlify,firebase)
 
 
 <div align="center">
