@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=dotnet,py,htmx,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,py,htmx,js,linkeding,github)](https://skillicons.dev)
 
 <div align="center">
 
