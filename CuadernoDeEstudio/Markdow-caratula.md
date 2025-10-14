@@ -10,14 +10,12 @@
 
 ### Bases de datos
 ![MySQL](https://skillicons.dev/icons?i=mysql)  
-![SQL](https://skillicons.dev/icons?i=sql)  
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
 ### Desarrollo de software
 ![C++](https://skillicons.dev/icons?i=cpp)  
 ![Python](https://skillicons.dev/icons?i=python)  
 ![Java](https://skillicons.dev/icons?i=java)  
-![C#](https://skillicons.dev/icons?i=csharp)  
 ![ASP.NET](https://skillicons.dev/icons?i=dotnet)  
 ![Spring Boot](https://skillicons.dev/icons?i=spring)  
 
