@@ -1,5 +1,30 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,htmx,js,linkeding,github)](https://skillicons.dev)
 
+### IDE
+![WebStorm](https://skillicons.dev/icons?i=webstorm)  
+![Jetbrains](https://skillicons.dev/icons?i=jetbrains)  
+![Rider](https://skillicons.dev/icons?i=rider)  
+![Pycharm](https://skillicons.dev/icons?i=pycharm)  
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)  
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+
+### Bases de datos
+![MySQL](https://skillicons.dev/icons?i=mysql)  
+![SQL](https://skillicons.dev/icons?i=sql)  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+### Desarrollo de software
+![C++](https://skillicons.dev/icons?i=cpp)  
+![Python](https://skillicons.dev/icons?i=python)  
+![Java](https://skillicons.dev/icons?i=java)  
+![C#](https://skillicons.dev/icons?i=csharp)  
+![ASP.NET](https://skillicons.dev/icons?i=dotnet)  
+![Spring Boot](https://skillicons.dev/icons?i=spring)  
+
+### Frameworks web
+![Angular](https://skillicons.dev/icons?i=angular)  
+![Vue](https://skillicons.dev/icons?i=vuejs)
+
 <div align="center">
 
   <center>
