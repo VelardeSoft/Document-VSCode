@@ -1,27 +1,17 @@
 [![My Skills](https://skillicons.dev/icons?i=dotnet,py,htmx,js,linkeding,github)](https://skillicons.dev)
 
-### IDE
-![WebStorm](https://skillicons.dev/icons?i=webstorm)  
-![Jetbrains](https://skillicons.dev/icons?i=jetbrains)  
-![Rider](https://skillicons.dev/icons?i=rider)  
-![Pycharm](https://skillicons.dev/icons?i=pycharm)  
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)  
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
+### IDE  
+![WebStorm](https://skillicons.dev/icons?i=webstorm) ![Rider](https://skillicons.dev/icons?i=rider) ![Pycharm](https://skillicons.dev/icons?i=pycharm) ![Visual Studio Code](https://skillicons.dev/icons?i=vscode) ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 
-### Bases de datos
-![MySQL](https://skillicons.dev/icons?i=mysql)  
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+### Bases de datos  
+![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-### Desarrollo de software
-![C++](https://skillicons.dev/icons?i=cpp)  
-![Python](https://skillicons.dev/icons?i=python)  
-![Java](https://skillicons.dev/icons?i=java)  
-![ASP.NET](https://skillicons.dev/icons?i=dotnet)  
-![Spring Boot](https://skillicons.dev/icons?i=spring)  
+### Desarrollo de software  
+![C++](https://skillicons.dev/icons?i=cpp) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![ASP.NET](https://skillicons.dev/icons?i=dotnet) ![Spring Boot](https://skillicons.dev/icons?i=spring)
 
-### Frameworks web
-![Angular](https://skillicons.dev/icons?i=angular)  
-![Vue](https://skillicons.dev/icons?i=vuejs)
+### Frameworks web  
+![Angular](https://skillicons.dev/icons?i=angular) ![Vue](https://skillicons.dev/icons?i=vuejs)
+
 
 <div align="center">
 
